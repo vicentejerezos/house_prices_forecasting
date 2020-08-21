@@ -11,14 +11,14 @@ Our goal is to correctly predict the final price of each home.
 6) Important themes:
 		
 	6.1) Is the overall quality an important factor?
-	6.2) Is how many cars fit in the garage important?
-	6.3) Is total surface important?
-	6.4) Is how many full baths have the house important?
-	6.5) Is how many rooms important?
-	6.6) Is year of built important?
-	6.7) Is year of remodelation important?
-	6.8) Between year of built and year of remodelation which is more important?
-	6.9) Do people really pay huge amount of money for having a pool?
+	6.2) Is the number of cars that fits in the garage an important factor?
+	6.3) Is total surface area important?
+	6.4) Is the number of full baths that the house has important?
+	6.5) Is the number of rooms important?
+	6.6) Is the year that it was built important?
+	6.7) Is the year of remodelation important?
+	6.8) Between year of construction and year of remodelation, which is more important?
+	6.9) Do people really pay huge amounts of money to have a pool?
 
 7) Feature engineering.
 8) Outliers.
